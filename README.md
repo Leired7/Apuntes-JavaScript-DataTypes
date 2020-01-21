@@ -59,7 +59,7 @@ let numberOfBikes = 3;
 `Tengo un total de ${numberOfCars} coches y ${numberOfBikes} bicicletas` // "Tengo un total de 2 coches y 3 bicicletas"
 ```
 
-### <data type> + string
+### <data <data type>type> + string
 
 En el caso de que se sume prácticamente cualquier otro data type con un ```string```, JavaScript interpretará ambos elementos como si fuesen strings.
 
@@ -76,7 +76,7 @@ let example = "aprendiz" + true // "aprendiztrue"
 typeof(example) // string
 ```
 
-### <data type> + number
+### <data <data type>type>+ number
 
 Ya hemos visto qué ocurre cuando sumamos un ```string``` con un ```number```. Veamos ahora otros ejemplos de qué ocurriría si sumamos un ```number``` a otro tipo de data type:
 
