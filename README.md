@@ -1,6 +1,6 @@
 # Data Types
 
-Los principales tipos de data primitivos que existen dentro de JavaScript son: 
+Existen 8 tipos de data primitivos en JavaScript. De entre estos, los principales son: 
 - ```string``` - Conjunto de caracteres. Se escribe entre comillas o doble comillas.
 - ```number``` - Un número cualquiera, y se escribe simplemente poniendo el número.
 - ```boolean``` - Siguiendo la lógica booleana, puede ser ```true``` o ```false```
